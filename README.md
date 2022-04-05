@@ -1,1 +1,1 @@
-# exercice-git-merge
+# exercice-git-merge pour studi
